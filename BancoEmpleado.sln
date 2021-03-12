@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoEmpleado", "BancoEmpleado.csproj", "{724CD251-26ED-4BC9-9BBB-9BF5F465A80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIEMPLEADO", "..\APIEMPLEADO\APIEMPLEADO.csproj", "{2348BB70-4BA7-4DED-8301-682F39F28C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724CD251-26ED-4BC9-9BBB-9BF5F465A80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724CD251-26ED-4BC9-9BBB-9BF5F465A80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724CD251-26ED-4BC9-9BBB-9BF5F465A80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724CD251-26ED-4BC9-9BBB-9BF5F465A80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2348BB70-4BA7-4DED-8301-682F39F28C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2348BB70-4BA7-4DED-8301-682F39F28C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2348BB70-4BA7-4DED-8301-682F39F28C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2348BB70-4BA7-4DED-8301-682F39F28C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {989A157F-895E-4D35-94D4-C1F03C213A2A}
+	EndGlobalSection
+EndGlobal
